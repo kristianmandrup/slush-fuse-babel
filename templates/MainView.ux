@@ -1,0 +1,15 @@
+<App>
+	<DockPanel>
+		<StatusBarBackground Dock="Top" />
+		<BottomBarBackground Dock="Bottom" />
+
+		<JavaScript File="./dist/MainView.js" />
+
+		<StackPanel>
+			<Each Items="{items}">
+				<Text Value="{}" />
+			</Each>
+		</StackPanel>
+	</DockPanel>
+</App>
+
