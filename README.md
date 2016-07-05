@@ -21,7 +21,8 @@ $ mkdir my-app
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-fuse-babel && slush slush-fuse-babel
+$ cd my-slush-fuse-babel
+$ slush fuse-babel
 ```
 
 ## Getting To Know Slush
