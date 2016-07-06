@@ -1,6 +1,11 @@
 {
-  "name": "babel",
-  "version": "1.0.0",
+  "name": "<% appName %>",
+  "version": "0.1.0",
+  "author": {
+    "name": "<%= authorName %>",
+    "email": "<%= authorEmail %>",
+  },
+  "description": "<% appDescription %>",
   "scripts": {
     "watch": "babel js -d dist -w"
   },
