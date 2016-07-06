@@ -1,7 +1,7 @@
 {
     "name": "slush-fuse-babel",
     "description": "Fuse project generator with Babel integration",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/kristianmandrup/slush-fuse-babel",
     "author": {
         "name": "Kristian Mandrup",
