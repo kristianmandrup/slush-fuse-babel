@@ -1,6 +1,6 @@
 {
     "name": "slush-fuse-babel",
-    "description": "Create Fuse project with Babel",
+    "description": "Fuse project generator with Babel integration",
     "version": "0.1.0",
     "homepage": "https://github.com/kristianmandrup/slush-fuse-babel",
     "author": {
@@ -17,7 +17,7 @@
     "license": "MIT",
     "main": "slushfile.js",
     "engines": {
-        "node": ">= 0.10.26",
+        "node": ">= 3.0.0",
         "npm": ">=1.4.3"
     },
     "scripts": {
