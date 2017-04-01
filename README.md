@@ -1,5 +1,7 @@
 # Slush-fuse-babel [![Build Status](https://secure.travis-ci.org/kristianmandrup/slush-fuse-babel.png?branch=master)](https://travis-ci.org/kristianmandrup/slush-fuse-babel) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-fuse-babel.png)](http://badges.enytc.com/for/npm/slush-fuse-babel)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/slush-fuse-babel.svg)](https://greenkeeper.io/)
+
 # Create Fuse project with Babel
 
 ## Getting Started
